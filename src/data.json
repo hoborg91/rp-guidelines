@@ -227,5 +227,41 @@
         "russia": {
             "message": "Настанет ли день, когда в России избавятся от вечной своей привычки затыкать рот всем добрым людям!?"
         }
+    },
+    {
+        "topic": "Школьная форма.",
+        "west": {
+            "message": "Ученики гордятся своей школьной формой.",
+            "imgLink": "https://condenast-media.gcdn.co/tatler/aee49892aa8bae504cf7fb608243b221.jpg/e815bb97/o/t5077x3506",
+            "imgDescription": "Александр Солженицын на встрече с учащимися Итонского колледжа, 1983 год. Источник: tatler.ru, pinterest.ru."
+        },
+        "russia": {
+            "message": "Школьная форма — это символ зловещего тоталитаризма.",
+            "bestPractices": [
+                {
+                    "message": "In the late Soviet period, the school uniform was perceived by many as an element of the totalitarian system and a tool for suppressing individuality.",
+                    "imgLink": "https://cdni.rbth.com/rbthmedia/images/all/2017/09/09_hbi52b30d2389b14_1024_b.jpg",
+                    "imgDescription": "Советские школьники. Источник: Semen Frindlaynd/MAMM/russiainphoto.ru",
+                    "linkHref": "https://www.rbth.com/arts/history/2017/09/01/how-soviet-children-struggled-with-symbol-of-totalitarism-the-school_832282",
+                    "linkCaption": "Margarita Lindt. How Soviet children struggled with the symbol of totalitarism - school uniform. Russia Beyond. Sept 01 2017"
+                }
+            ]
+        }
+    },
+    {
+        "topic": "Рабство отменяют после 1860 г.",
+        "west": {
+            "message": "Свободолюбивые американцы враз расправились с ненавистным пережитком, разделив со своими ближними важнейшие демократические ценности."
+        },
+        "russia": {
+            "message": "Из-за отвратительного института лаптей и лохмотьев, за которые до последнего цеплялась звероподобная русня, миллионы влачили жалкое существование.",
+            "bestPractices": [
+                {
+                    "message": "Подземка Нью-Йорка — одна из самых старых в мире. Первый поезд был пущен тогда, когда у нас отменили крепостное право — в середине XIX в.",
+                    "linkHref": "https://www.youtube.com/watch?v=P_g10-9Y2eY&t=294s",
+                    "linkCaption": "Орёл и Решка - 1 Выпуск НЬЮ-ЙОРК"
+                }
+            ]
+        }
     }
 ]

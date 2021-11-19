@@ -40,6 +40,12 @@
 	От вас потребуется изобрести несколько более продуманный подход к чувствам потребителей.  
 </div>
 
+<div class="faq-div">
+	<span class="faq-question">Как дополнить?</span> 
+	Исходный код проекта находится по адресу <a href="https://github.com/hoborg91/rp-guidelines">https://github.com/hoborg91/rp-guidelines</a>. 
+	Можно либо <a href="https://github.com/hoborg91/rp-guidelines/pulls">отправить свои изменения в коде</a>, либо <a href="https://github.com/hoborg91/rp-guidelines/issues">создать запрос</a>. 
+</div>
+
 <style>
 	h1 {
 		color: lightskyblue;
